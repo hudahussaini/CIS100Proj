@@ -1,0 +1,11 @@
+okay
+Halal
+ng new sentance... Hello Jello
+Printing a longer sentance... Hello Halal
+Hello there, your current string is  *Hello*
+ll
+llo
+okay
+Yay, they match!
+Is alpha
+Is alpha

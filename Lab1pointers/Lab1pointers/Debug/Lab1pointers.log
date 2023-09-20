@@ -1,0 +1,3 @@
+﻿  Lab1pointers.cpp
+C:\Users\mahre\source\repos\Lab1pointers\Lab1pointers\Lab1pointers.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab1pointers.vcxproj -> C:\Users\mahre\source\repos\Lab1pointers\Debug\Lab1pointers.exe

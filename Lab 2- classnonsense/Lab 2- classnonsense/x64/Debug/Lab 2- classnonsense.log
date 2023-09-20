@@ -1,0 +1,6 @@
+﻿  Lab 2- classnonsense.cpp
+Source.obj : error LNK2005: "public: void __cdecl Person::PrintMe(void)" (?PrintMe@Person@@QEAAXXZ) already defined in Lab 2- classnonsense.obj
+Source.obj : error LNK2005: "public: int __cdecl Person::getCredhrs(void)const " (?getCredhrs@Person@@QEBAHXZ) already defined in Lab 2- classnonsense.obj
+Source.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Person::getMajor(void)const " (?getMajor@Person@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) already defined in Lab 2- classnonsense.obj
+Source.obj : error LNK2005: "public: void __cdecl Person::setBoth(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?setBoth@Person@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Lab 2- classnonsense.obj
+C:\Users\mahre\source\repos\Lab 2- classnonsense\x64\Debug\Lab 2- classnonsense.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mahre\source\repos\lab11\lab11\Source.cpp(223,9): warning C4101: 'i': unreferenced local variable
+C:\Users\mahre\source\repos\lab11\lab11\Source.cpp(223,12): warning C4101: 'num': unreferenced local variable
+  lab11.vcxproj -> C:\Users\mahre\source\repos\lab11\Debug\lab11.exe

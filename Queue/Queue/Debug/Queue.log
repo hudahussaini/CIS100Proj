@@ -1,0 +1,72 @@
+﻿  CIS200Proj2Data.cpp
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(72,20): error C2062: type 'int' unexpected
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(72,40): error C2065: 'k': undeclared identifier
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(72,54): error C2065: 'k': undeclared identifier
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(72,57): error C2059: syntax error: ')'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(73,18): error C2065: 'k': undeclared identifier
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(73,20): error C2059: syntax error: ';'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79,2): error C2059: syntax error: 'for'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79,2): error C2143: syntax error: missing ')' before ';'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79,20): error C2143: syntax error: missing ';' before '<'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79,27): error C2059: syntax error: '++'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79,30): error C2059: syntax error: ')'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79,32): error C2143: syntax error: missing ';' before '{'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79,32): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(84,2): error C2059: syntax error: 'for'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(84,2): error C2143: syntax error: missing ')' before ';'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(84,27): error C2143: syntax error: missing ';' before '<'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(84,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(84,25): error C2086: 'int i': redefinition
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79): message : see declaration of 'i'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(84,44): error C2059: syntax error: '++'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(84,52): error C2059: syntax error: ')'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(84,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(84,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(93,2): error C2059: syntax error: 'for'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(93,2): error C2143: syntax error: missing ')' before ';'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(93,20): error C2143: syntax error: missing ';' before '<'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(93,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(93,18): error C2086: 'int i': redefinition
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79): message : see declaration of 'i'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(93,27): error C2059: syntax error: '++'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(93,30): error C2059: syntax error: ')'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(93,32): error C2143: syntax error: missing ';' before '{'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(93,32): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(97,2): error C2059: syntax error: 'for'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(97,2): error C2143: syntax error: missing ')' before ';'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(97,27): error C2143: syntax error: missing ';' before '<'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(97,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(97,25): error C2086: 'int i': redefinition
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79): message : see declaration of 'i'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(97,44): error C2059: syntax error: '++'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(97,52): error C2059: syntax error: ')'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(97,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(97,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(106,2): error C2059: syntax error: 'for'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(106,2): error C2143: syntax error: missing ')' before ';'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(106,20): error C2143: syntax error: missing ';' before '<'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(106,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(106,18): error C2086: 'int i': redefinition
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79): message : see declaration of 'i'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(106,27): error C2059: syntax error: '++'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(106,30): error C2059: syntax error: ')'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(106,32): error C2143: syntax error: missing ';' before '{'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(106,32): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,2): error C2059: syntax error: 'for'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,29): error C2143: syntax error: missing ')' before ';'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,33): error C2143: syntax error: missing ';' before '<'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,31): error C2086: 'int i': redefinition
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79): message : see declaration of 'i'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,50): error C2143: syntax error: missing ';' before '++'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,49): error C2086: 'int i': redefinition
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(79): message : see declaration of 'i'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,57): error C2059: syntax error: ')'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,59): error C2143: syntax error: missing ';' before '{'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(112,59): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(121,1): error C2059: syntax error: '}'
+C:\Users\mahre\source\repos\CIS200Proj2Data\CIS200Proj2Data\CIS200Proj2Data.cpp(121,1): error C2143: syntax error: missing ';' before '}'
+  QueueCode.cpp
+  Generating Code...

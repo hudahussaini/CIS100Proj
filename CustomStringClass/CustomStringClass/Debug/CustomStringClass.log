@@ -1,0 +1,15 @@
+﻿  Source1.cpp
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(139,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(142,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(202,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(207,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(265): warning C4715: 'CustomStringClass::numericString': not all control paths return a value
+C:\Users\mahre\source\repos\CustomStringClass\CustomStringClass\Source1.cpp(277): warning C4715: 'CustomStringClass::alphabeticString': not all control paths return a value
+  CustomStringClass.vcxproj -> C:\Users\mahre\source\repos\CustomStringClass\Debug\CustomStringClass.exe
